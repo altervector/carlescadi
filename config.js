@@ -14,7 +14,7 @@ const CONFIG = {
     SLOGAN:         "Representant i distribuidor al Penedés de Cadí Alimentació",
     TELEFON:        "",                 TELEFONLBL: "Telèfon", TL: "📞",
     MOBIL:          "690 09 13 88",
-    WHATSAPP:       "https://wa.me/34690091388",    WHATSAPPLBL: "💬",
+    WHATSAPP:       "https://wa.me/34690091388",    WHATSAPPLBL: "💬 Escríu-me per WhatsApp",
     EMAIL:          "cadimobil2@gmail.com",          EMAILLBL: "e-Mail",   EM: "✉️",
     ADRECA:         "Carrer del Empordà, 15-17, Nave J, 08219 Sant Quirze del Vallès, Barcelona",   ADRECALBL: "Adreça", AD: "📍",
     INSTAGRAM:      "https://www.instagram.com/carlescadi",
