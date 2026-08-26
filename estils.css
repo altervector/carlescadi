@@ -16,10 +16,11 @@
     --gris-fosc:      #1f1f1f;   /* text principal */
     --gris:           #6b6b6b;   /* text secundari */
     --gris-clar:      #f4f4f4;   /* fons alternatiu de seccions */
-    --blanc:          #ffffff;
+    --blanc:          hsl(0 0% 100%);
+    --blanc-trans:    #FFFFFF38;
 
-    --font-titol:     'Comfortaa-Bold', Roboto, sans-serif;
-    --font-cos:       'Segoe UI', Roboto, sans-serif;
+    --font-titol:     'Comfortaa-Bold',  sans-serif;
+    --font-cos:       'Comfortaa-Bold',sans-serif;
 
     --radi:           6px;
     --amplada-max:    100%;
@@ -66,7 +67,7 @@ a:hover { text-decoration: underline; }
 
 /* ─── NAVBAR ──────────────────────────────────────────────── */
 .navbar {
-    background-color: var(--blanc);
+    background-color: var(--blanc-trans);
     padding: 14px 20px;
     display: flex;
     justify-content: space-between;
@@ -97,7 +98,7 @@ a:hover { text-decoration: underline; }
 }
 
 .navbar-menu a {
-    color: var(--gris-fosc);
+    color: var(--vermell);
     font-size: 13px; font-weight: 600;
     letter-spacing: 1px; text-transform: uppercase;
 }

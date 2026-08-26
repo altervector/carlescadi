@@ -8,22 +8,22 @@ const CONFIG = {
 
     // 1. NEGOCI
     COOK:           "cookies_esmar",
-    NOM:            "Carles Cadí",
+    NOM:            "Carles Cadí Alimentació",
     LOGO:           "logo/logoCAtrans.png", 
     LOGO_T:         "logo/logoCAtrans.png",  // ← pendent: recuperar logo real
     SLOGAN:         "Representant i distribuidor al Penedés de Cadí Alimentació",
-    TELEFON:        "93 780 06 81",                 TELEFONLBL: "Teléfono", TL: "📞",
-    MOBIL:          "639 758 989",
-    WHATSAPP:       "https://wa.me/34699642213",    WHATSAPPLBL: "💬 Escríbenos por WhatsApp",
-    EMAIL:          "info@gruasesmar.com",          EMAILLBL: "e-Mail",   EM: "✉️",
-    ADRECA:         "Carrer de Colom, 453, Nave D51, 08223 Terrassa, Barcelona",   ADRECALBL: "Dirección", AD: "📍",
-    INSTAGRAM:      "https://www.instagram.com/gruas_esmar",
+    TELEFON:        "",                 TELEFONLBL: "Telèfon", TL: "📞",
+    MOBIL:          "690 09 13 88",
+    WHATSAPP:       "https://wa.me/34690091388",    WHATSAPPLBL: "💬 Escríu-me per WhatsApp",
+    EMAIL:          "cadimobil2@gmail.com",          EMAILLBL: "e-Mail",   EM: "✉️",
+    ADRECA:         "Carrer del Empordà, 15-17, Nave J, 08219 Sant Quirze del Vallès, Barcelona",   ADRECALBL: "Adreça", AD: "📍",
+    INSTAGRAM:      "https://www.instagram.com/carlescadi",
     FACEBOOK:       "",
     EMAIL_SUPORT:   "info@alterwebstudio.com",
 
     // 2. RUTES
 
-    REPO_URL:       "https://altervector.github.io/gruasesmar/",
+    REPO_URL:       "https://altervector.github.io/carlescadi/",
     BASE_URL:       "./",
     BASE_WORKER:    "https://gruasesmar.altervector.workers.dev",   // ← pendent: crear Worker per als 2 formularis
     URL_OFICIAL:    "https://gruasesmar.com",

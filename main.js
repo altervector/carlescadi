@@ -17,12 +17,12 @@
                     <img class="hero-imatge" src="${CONFIG.ASSETS}${CONFIG.BLOC_HERO}" alt="${CONFIG.NOM}">
                     <div class="hero-overlay"></div>
                     <div class="hero-contingut">
-                        <span class="hero-eyebrow">Asistencia 24h</span>
+                        <!--span class="hero-eyebrow">Hola, sóc en...</span -->
                         <h1 class="hero-titol">${CONFIG.NOM}</h1>
                         <p class="hero-slogan">${CONFIG.SLOGAN}</p>
                         <div class="hero-botons">
-                            <a href="tel:${CONFIG.TELEFON}" class="hero-boto-principal btn-balla">${CONFIG.HERO_BOTO_PRI}</a>
-                            <a href="#serveis" class="hero-boto-secundari">${CONFIG.HERO_BOTO_SEC}</a>
+                            <!--a href="tel:${CONFIG.TELEFON}" class="hero-boto-principal btn-balla">${CONFIG.HERO_BOTO_PRI}</a>
+                            <a href="#serveis" class="hero-boto-secundari">${CONFIG.HERO_BOTO_SEC}</a -->
                         </div>
                     </div>
                 </section>

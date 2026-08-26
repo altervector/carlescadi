@@ -9,7 +9,7 @@ class NavComu extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <div class="franja-superior">
-                <a href="tel:${CONFIG.TELEFON}">${CONFIG.TL} ${CONFIG.TELEFON}</a>
+                <a href="tel:${CONFIG.WHATSAPP}">${CONFIG.WHATSAPPLBL} ${CONFIG.MOBIL}</a>
                 <a href="mailto:${CONFIG.EMAIL}">${CONFIG.EM} ${CONFIG.EMAIL}</a>
             </div>
             <nav class="navbar">
