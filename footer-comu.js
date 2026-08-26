@@ -8,7 +8,7 @@
 class FooterComu extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
-            <div class="franja-stats" style="background-image:url('${CONFIG.ASSETS}${CONFIG.STATS_IMG}');">
+            <!--div class="franja-stats" style="background-image:url('${CONFIG.ASSETS}${CONFIG.STATS_IMG}');">
                 <div class="franja-stats-overlay"></div>
                 <div class="stat-item">
                     <div class="stat-numero">24</div>
@@ -19,7 +19,7 @@ class FooterComu extends HTMLElement {
                     <div class="stat-label">días/año</div>
                 </div>
                 <a href="tel:${CONFIG.TELEFON}" class="stats-boto">${CONFIG.STATS_BOTO}</a>
-            </div>
+            </div-->
 
             <section class="seccio" id="contacte">
                 <p class="seccio-eyebrow">${CONFIG.ON_SOM}</p>
@@ -37,7 +37,7 @@ class FooterComu extends HTMLElement {
                         <div>
                             <div class="contacte-label">${CONFIG.TELEFONLBL}</div>
                             <div class="contacte-valor">
-                                <a href="tel:${CONFIG.TELEFON}">${CONFIG.TELEFON}</a><br>
+                                <!--a href="tel:${CONFIG.TELEFON}">${CONFIG.TELEFON}</a><br-->
                                 <a href="tel:${CONFIG.MOBIL}">${CONFIG.MOBIL}</a>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ class FooterComu extends HTMLElement {
                 </div>
                 <div class="botons-contacte">
                 <a href="${CONFIG.WHATSAPP}" target="_blank" class="boto-whatsapp btn-balla">${CONFIG.WHATSAPPLBL}</a>
-                <a href="form-contacte.html" class="boto-whatsapp">Formulario de Contacto</a>
+                <!--a href="form-contacte.html" class="boto-whatsapp">Formulario de Contacto</a-->
                 </div>
             </section>
 
@@ -74,18 +74,18 @@ class FooterComu extends HTMLElement {
                         <img src="${CONFIG.ASSETS}icon/google.png" alt="Google" class="icona-app">Google
                     </a>
                 </div>
-                            <p class="footer-qr">
+                            <!--p class="footer-qr">
                                 <a href="${CONFIG.ASSETS}${CONFIG.QR}">
                                     <img src="${CONFIG.ASSETS}${CONFIG.QR}" alt="QR">
                                 </a>
-                            </p>
+                            </p-->
                 <p style="font-size:13px; color: var(--gris);">
                     <a href="${CONFIG.URL_MAPS}" target="_blank">${CONFIG.ADRECA}</a>
                 </p>
                 <div class="footer-legal">
-                    <a href="aviso-legal.html">Aviso Legal</a>
-                    <a href="privacitat.html">Política de privacidad</a>
-                    <a href="cookies.html">Uso de Cookies</a>
+                    <!--a href="aviso-legal.html">Aviso Legal</a>
+                    <a href="zprivacitat.html">Política de privacidad</a>
+                    <a href="zcookies.html">Uso de Cookies</a-->
                 </div>
                 <p class="footer-poweredby">
                     Powered by <a href="https://www.alterwebstudio.com" target="_blank">AlterWeb Studio</a>

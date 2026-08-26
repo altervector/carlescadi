@@ -28,8 +28,8 @@ const CONFIG = {
     BASE_WORKER:    "https://gruasesmar.altervector.workers.dev",   // ← pendent: crear Worker per als 2 formularis
     URL_OFICIAL:    "https://gruasesmar.com",
     ASSETS:         "https://avsets.pages.dev/",
-    URL_MAPS:       "https://www.google.com/maps/search/?api=1&query=Talleres+Esmar+Terrassa",
-    URL_RESSENYES:  "https://www.google.com/maps/search/?api=1&query=Talleres+Esmar+Terrassa",
+    URL_MAPS:       "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
+    URL_RESSENYES:  "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
     
 
     // 3. IMATGES 
@@ -83,9 +83,9 @@ const CONFIG = {
 
     // 8. CONTACTE
     ON_SOM:         "",
-    ON_SOM_TIT:     "Dónde estamos...",   //Ven a vernos
-    HORA_0:         "Horario", HR: "🕐",
-    HORA_1:         "Asistencia 24 horas, los 365 días del año",
+    ON_SOM_TIT:     "On som...",   //Ven a vernos
+    HORA_0:         "Horari", HR: "🕐",
+    HORA_1:         "De Dilluns a Divendres de 7:00 a 14:00",
 
     // 6. SEGURETAT
     SITIOS_SEGUROS: ["alterwebstudio.com", "altervector.com", "pages.dev", "altervector.github.io","gruasesmar.com", "localhost", "127.0.0.1"],
