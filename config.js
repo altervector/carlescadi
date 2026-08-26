@@ -30,19 +30,21 @@ const CONFIG = {
     ASSETS:         "https://avsets.pages.dev/",
     URL_MAPS:       "https://www.google.com/maps/search/?api=1&query=Talleres+Esmar+Terrassa",
     URL_RESSENYES:  "https://www.google.com/maps/search/?api=1&query=Talleres+Esmar+Terrassa",
+    
 
     // 3. IMATGES 
 
     BLOC_HERO:      "images/carlescadi/hero.png",
+    CARICATURA:     "images/carlescadi/yo.png",
     FONS_SERVEIS:   "images/gruasesmar/servi/servi.jpg",
     QR:             "qr/qr-gruasesmar.png",
 
     // 4. NAVBAR
     
-    NAV_INI:        "Inicio",
+    NAV_INI:        "Inici",
     NAV_NOS:        "Nosotros",
-    NAV_SER:        "Servicios",
-    NAV_CON:        "Contacto",
+    NAV_SER:        "Serveis",
+    NAV_CON:        "Contacte",
 
     HERO_BOTO_PRI:  "📞 Pedir grúa",
     HERO_BOTO_SEC:  "Nuestros servicios",
