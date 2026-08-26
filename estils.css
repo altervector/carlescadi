@@ -3,7 +3,12 @@
    Paleta basada en la web original: vermell/taronja d'alerta
    + blanc + gris fosc. PRIMER ESBORRANY.
    ============================================================ */
-
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('https://avsets.pages.dev/fonts/Comfortaa-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
 :root {
     --vermell:        #e53012;   /* accent principal — botons, títols destacats */
     --vermell-fosc:   #b8250d;   /* hover */
@@ -13,7 +18,7 @@
     --gris-clar:      #f4f4f4;   /* fons alternatiu de seccions */
     --blanc:          #ffffff;
 
-    --font-titol:     'Segoe UI', Roboto, sans-serif;
+    --font-titol:     'Comfortaa-Bold', Roboto, sans-serif;
     --font-cos:       'Segoe UI', Roboto, sans-serif;
 
     --radi:           6px;

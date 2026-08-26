@@ -1,5 +1,5 @@
 /* ============================================================
-   CONFIG.JS — Grúas Esmar
+   CONFIG.JS —CarlesCadi
    PRIMER ESBORRANY — colors i textos pendents de confirmar
    amb la web original un cop hi tinguem accés complet
    ============================================================ */
@@ -8,10 +8,10 @@ const CONFIG = {
 
     // 1. NEGOCI
     COOK:           "cookies_esmar",
-    NOM:            "Grúas Esmar",
-    LOGO:           "logo/logoEsmar.png",       // ← pendent: recuperar logo real
-    LOGO_T:         "logo/logoGEtrans.png",  // ← pendent: recuperar logo real
-    SLOGAN:         "Asistencia en carretera 24h en el Vallés Occidental",
+    NOM:            "Carles Cadí",
+    LOGO:           "logo/logoCAtrans.png", 
+    LOGO_T:         "logo/logoCAtrans.png",  // ← pendent: recuperar logo real
+    SLOGAN:         "Representant i distribuidor al Penedés de Cadí Alimentació",
     TELEFON:        "93 780 06 81",                 TELEFONLBL: "Teléfono", TL: "📞",
     MOBIL:          "639 758 989",
     WHATSAPP:       "https://wa.me/34699642213",    WHATSAPPLBL: "💬 Escríbenos por WhatsApp",
@@ -33,7 +33,7 @@ const CONFIG = {
 
     // 3. IMATGES 
 
-    BLOC_HERO:      "images/gruasesmar/hero-gruasesmar.jpg",
+    BLOC_HERO:      "images/carlescadi/hero.png",
     FONS_SERVEIS:   "images/gruasesmar/servi/servi.jpg",
     QR:             "qr/qr-gruasesmar.png",
 
