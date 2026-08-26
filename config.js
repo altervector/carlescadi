@@ -8,7 +8,7 @@ const CONFIG = {
 
     // 1. NEGOCI
     COOK:           "cookies_esmar",
-    NOM:            "Carles Cadí Alimentació",
+    NOM:            "Carles  <br><br>Cadí Alimentació",
     LOGO:           "logo/logoCAtrans.png", 
     LOGO_T:         "logo/logoCAtrans.png",  // ← pendent: recuperar logo real
     SLOGAN:         "Representant i distribuidor al Penedés de Cadí Alimentació",
