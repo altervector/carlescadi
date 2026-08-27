@@ -152,11 +152,11 @@ a:hover { text-decoration: underline; }
 }
 
 .hero-titol {
-    font-size: 2.6rem; font-weight: 800; line-height: 1.1; color: var(--blanc);
+    font-size: 2rem; font-weight: 800; line-height: 1.1; color: var(--blanc);
     margin-bottom: 12px; text-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }
 
-.hero-slogan { font-size: 1rem; color: #e5e5e5; margin-bottom: 30px; line-height: 1.5; }
+.hero-slogan { font-size: 0.9rem; color: #e5e5e5; margin-bottom: 30px; line-height: 1.5; }
 
 .hero-botons { display: flex; flex-direction: column; gap: 12px; }
 
