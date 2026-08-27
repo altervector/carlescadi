@@ -92,7 +92,7 @@ class CookiesBanner extends HTMLElement {
                     <p>
                         Usamos una cookie técnica propia para recordar tu elección.
                         No utilizamos cookies de terceros ni de análisis.
-                        <a href="cookies.html">Más información</a>
+                        <!--a href="cookies.html">Más información</a-->
                     </p>
                     <div class="cb-botons">
                         <button id="cb-rebutjar">Rechazar</button>
