@@ -48,7 +48,7 @@ a:hover { text-decoration: underline; }
     background-color: var(--blau-franja);
     display: flex;
     justify-content: center;
-    gap: 24px;
+    gap: 18px;
     align-items: center;
     padding: 6px 20px;
     position: fixed;
