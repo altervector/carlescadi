@@ -7,7 +7,7 @@
 const CONFIG = {
 
     // 1. NEGOCI
-    COOK:           "cookies_esmar",
+    COOK:           "cookies_cadi",
     NOM:            "Carles  <br><br>Cadí Alimentació",
     LOGO:           "logo/logoCAtrans.png", 
     LOGO_T:         "logo/logoCAtrans.png",  // ← pendent: recuperar logo real
@@ -15,7 +15,7 @@ const CONFIG = {
     TELEFON:        "",                 TELEFONLBL: "Telèfon", TL: "📞",
     MOBIL:          "690 09 13 88",
     WHATSAPP:       "https://wa.me/34690091388",    WHATSAPPLBL: "💬 Escríu-me per WhatsApp",
-    EMAIL:          "cadimobil2@gmail.com",          EMAILLBL: "e-Mail",   EM: "✉️",
+    EMAIL:          "carlecadi@alterwebstudio.com",          EMAILLBL: "e-Mail",   EM: "✉️",
     ADRECA:         "Carrer del Empordà, 15-17, Nave J, 08219 Sant Quirze del Vallès, Barcelona",   ADRECALBL: "Adreça", AD: "📍",
     INSTAGRAM:      "https://www.instagram.com/carlescadi",
     FACEBOOK:       "",
@@ -26,7 +26,7 @@ const CONFIG = {
     REPO_URL:       "https://altervector.github.io/carlescadi/",
     BASE_URL:       "./",
     BASE_WORKER:    "https://gruasesmar.altervector.workers.dev",   // ← pendent: crear Worker per als 2 formularis
-    URL_OFICIAL:    "https://gruasesmar.com",
+    URL_OFICIAL:    "https:// carlescadi.alterwebstudio.com",
     ASSETS:         "https://avsets.pages.dev/",
     URL_MAPS:       "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
     URL_RESSENYES:  "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
@@ -43,7 +43,7 @@ const CONFIG = {
     
     NAV_INI:        "Inici",
     NAV_NOS:        "Nosotros",
-    NAV_SER:        "Serveis",
+    NAV_SER:        "Productes",
     NAV_CON:        "Contacte",
 
     HERO_BOTO_PRI:  "📞 Pedir grúa",
