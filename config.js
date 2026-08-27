@@ -10,7 +10,7 @@ const CONFIG = {
     COOK:           "cookies_cadi",
     NOM:            "Carles  <br><br>Cadí Alimentació",
     LOGO:           "logo/logoCAtrans.png", 
-    LOGO_T:         "logo/logoCAtrans.png",  // ← pendent: recuperar logo real
+    LOGO_T:         "logo/logoCAtrans.png", 
     SLOGAN:         "Representant i distribuidor al Penedés de Cadí Alimentació",
     TELEFON:        "",                 TELEFONLBL: "Telèfon", TL: "📞",
     MOBIL:          "690 09 13 88",
@@ -26,7 +26,7 @@ const CONFIG = {
     REPO_URL:       "https://altervector.github.io/carlescadi/",
     BASE_URL:       "./",
     BASE_WORKER:    "https://gruasesmar.altervector.workers.dev",   // ← pendent: crear Worker per als 2 formularis
-    URL_OFICIAL:    "https:// carlescadi.alterwebstudio.com",
+    URL_OFICIAL:    "https://carlescadi.alterwebstudio.com",
     ASSETS:         "https://avsets.pages.dev/",
     URL_MAPS:       "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
     URL_RESSENYES:  "https://maps.app.goo.gl/Xs6h3Z6q37xFbrnn7",
@@ -88,5 +88,5 @@ const CONFIG = {
     HORA_1:         "De Dilluns a Divendres de 7:00 a 14:00",
 
     // 6. SEGURETAT
-    SITIOS_SEGUROS: ["alterwebstudio.com", "altervector.com", "pages.dev", "altervector.github.io","gruasesmar.com", "localhost", "127.0.0.1"],
+    SITIOS_SEGUROS: ["alterwebstudio.com", "altervector.com", "pages.dev", "altervector.github.io", "localhost", "127.0.0.1"],
 };
