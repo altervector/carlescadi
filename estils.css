@@ -448,8 +448,8 @@ a.servei-card {
     .navbar-logo img { height: 60px; }
     .navbar-menu { display: flex; gap: 32px; list-style: none; }
     .navbar-hamburguesa { display: none; }
-    .hero-contingut { padding: 0 48px; }
-    .hero-titol { font-size: 4.2rem; }
+    .hero-contingut { padding: 0 120px; margin-top: 170px;}
+    .hero-titol { font-size: 4.1rem; }
     .hero-botons { flex-direction: row; }
     .seccio { padding: 80px 48px; max-width: 1100px; margin: 0 auto; }
     .serveis-grid { grid-template-columns: repeat(3, 1fr); }
