@@ -19,12 +19,12 @@
                 <div class="hero-contingut">
                     <div class="hero-fila">
                         <div class="hero-text">
+                        <div class="hero-caricatura">
+                            <img src="${CONFIG.ASSETS}${CONFIG.CARICATURA}" alt="${CONFIG.NOM}">
+                        </div>
                             <h1 class="hero-titol">${CONFIG.NOM}</h1>
                             <p class="hero-slogan">${CONFIG.SLOGAN}</p>
                         </div>
-                        <!--div class="hero-caricatura">
-                            <img src="${CONFIG.ASSETS}${CONFIG.CARICATURA}" alt="${CONFIG.NOM}">
-                        </div-->
                     </div>
                     <div class="hero-botons">
                         <!--a href="tel:${CONFIG.TELEFON}" class="hero-boto-principal btn-balla">${CONFIG.HERO_BOTO_PRI}</a>

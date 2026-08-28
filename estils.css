@@ -119,7 +119,7 @@ a:hover { text-decoration: underline; }
     z-index: 1;
 }
 
-.hero-contingut { position: relative; z-index: 2; padding: 0 24px; max-width: 520px; margin-top: 90px; }
+.hero-contingut { position: relative; z-index: 2; padding: 0 24px; max-width: 520px; margin-top: 70px; }     /*xxx*/
 .hero-fila {
     display: flex;
     align-items: center;
@@ -137,6 +137,7 @@ a:hover { text-decoration: underline; }
     overflow: hidden;
     flex-shrink: 0;
     border: 3px solid var(--taronja);
+    margin-bottom: 60px;                                /*xxx*/
 }
 
 .hero-caricatura img {

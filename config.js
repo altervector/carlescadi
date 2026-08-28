@@ -35,7 +35,7 @@ const CONFIG = {
     // 3. IMATGES 
 
     BLOC_HERO:      "images/carlescadi/hero.png",
-    CARICATURA:     "images/carlescadi/yo.png",
+    CARICATURA:     "images/carlescadi/yo.jpg",
     FONS_SERVEIS:   "images/gruasesmar/servi/servi.jpg",
     QR:             "qr/qr-gruasesmar.png",
 
