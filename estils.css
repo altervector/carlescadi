@@ -217,7 +217,7 @@ a:hover { text-decoration: underline; }
     color: var(--vermell); margin-bottom: 10px;
 }
 
-.seccio-titol { font-size: 1.6rem; color: var(--gris-fosc); line-height: 1.25; margin-bottom: 18px; }
+.seccio-titol { font-size: 1.4rem; color: var(--gris-fosc); line-height: 1.25; margin-bottom: 18px; }
 
 .seccio-text { font-size: 15px; color: var(--gris); line-height: 1.8; margin-bottom: 14px; }
 
